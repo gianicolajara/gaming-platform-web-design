@@ -2,11 +2,6 @@
   "name": "gaming-platform-web-design",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=18.15.0",
-    "npm": ">=9.6.3",
-    "yarn": "pls-install-npm"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
