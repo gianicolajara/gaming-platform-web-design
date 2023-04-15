@@ -3,4 +3,5 @@ export interface ItemNavbarProps {
   title: string;
   url: string;
   handleClose?: () => void;
+  active?: boolean;
 }
