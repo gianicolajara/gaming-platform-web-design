@@ -7,7 +7,7 @@ import TradingGameList from './TradingGameList';
 
 const Trending = () => {
   return (
-    <section className="w-full h-full pb-20">
+    <section className="w-full h-full pb-10 lg:py-20">
       <PrimaryWrapper>
         <div className="w-full flex justify-between items-center">
           <Subtitle size={TextSizeEnum.sm} className="lg:text-2xl">

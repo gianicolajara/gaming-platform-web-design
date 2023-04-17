@@ -10,7 +10,7 @@ const RightSide = () => {
           quality={100}
           width={96}
           height={30}
-        ></Image>
+        />
       </div>
       <div className="absolute left-[15%] top-[23%]">
         <Image
@@ -37,6 +37,7 @@ const RightSide = () => {
           quality={100}
           width={441}
           height={761}
+          className="w-full h-full object-contain"
         />
       </div>
     </div>
